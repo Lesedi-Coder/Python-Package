@@ -9,6 +9,6 @@ setup(
     long_description=open('README.md').read(),
     install_requires=['numpy'],
     url='https://github.com/exclusivedollar/Team_5_analyse',
-    author='<TeamAnalyse>',
-    author_email='<lesedi10madumo@gmail.com>'
+    author='TeamAnalyse',
+    author_email='lesedi10madumo@gmail.com'
 )
